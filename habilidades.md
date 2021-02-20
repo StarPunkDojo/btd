@@ -353,7 +353,7 @@
         {
             "nome": "Ninguém escapa da própria Sombra!",
             "efeito": "Habilidades Regulares tem 50% de chance de causarem Camuflagem 1",
-            "duração": "2 turnos"
+            "duração": "2 turnos",
             "custo": 2
         },
         {
@@ -374,8 +374,11 @@
             "custo": 30
         },
         {
-            "nome": "Refúgio",
-            "passiva": "Quanto não é o único combatente alidado, só será alvejado após o primeiro ataque"
+            "nome": "Ressonância",
+            "dano": "Afinidade * 1",
+            "tipoDeDano": "Som",
+            "efeito": "Escolha um aliado, aplique essa habilidade toda a vez que ele atacar",
+            "duração": "3 turnos"
         },
     ]
 }
@@ -385,14 +388,14 @@
 {
     "lv-1": [
         {
-            "nome": "Ninguém escapa da própria Sombra!",
-            "efeito": "Habilidades Regulares tem 50% de chance de causarem Camuflagem 1",
+            "nome": "Silencio!",
+            "efeito": "Silencie o inimigo",
             "duração": "2 turnos",
-            "custo": 2
+            "custo": 3
         },
         {
-            "nome": "Desprezo as Sombras",
-            "passiva": "Imune a Sombra",
+            "nome": "Desprezo ao Som",
+            "passiva": "Imune ao Som",
         }
     ]
 }
@@ -402,13 +405,16 @@
 {
     "lv-1": [
         {
-            "nome": "Harmonia de Viora",
-            "efeito": "Muda a ordem de ataque dos inimigos ou aliados",
+            "nome": "Cria de Fai Mei",
+            "dano": "Afinidade * 1",
+            "tipoDeDano": "Corte",
+            "efeito": "Cria um Golem Metálico imune a ataques físicos (Limite de apenas 1)",
             "custo": 30
         },
         {
-            "nome": "Refúgio",
-            "passiva": "Quanto não é o único combatente alidado, só será alvejado após o primeiro ataque"
+            "nome": "Projetar: Fronteira",
+            "efeito": "Cria uma barreira entre seus aliados e o inimigos que deve ser destruida",
+            "durabilidade": "Afinidade + Resistência"
         },
     ]
 }
@@ -418,14 +424,12 @@
 {
     "lv-1": [
         {
-            "nome": "Ninguém escapa da própria Sombra!",
-            "efeito": "Habilidades Regulares tem 50% de chance de causarem Camuflagem 1",
-            "duração": "2 turnos",
-            "custo": 2
+            "nome": "Eu sou imortal... Eu sou invecível!",
+            "passiva": "Imune a ataques cortantes ou à distancia"
         },
         {
-            "nome": "Desprezo as Sombras",
-            "passiva": "Imune a Sombra",
+            "nome": "Desprezo ao Metal",
+            "passiva": "Imune ao Metal",
         }
     ]
 }
