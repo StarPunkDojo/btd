@@ -375,7 +375,7 @@
         },
         {
             "nome": "Ressonância",
-            "dano": "Afinidade * 1",
+            "dano": "Afinidade + Carisma",
             "tipoDeDano": "Som",
             "efeito": "Escolha um aliado, aplique essa habilidade toda a vez que ele atacar",
             "duração": "3 turnos"
