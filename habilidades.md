@@ -309,7 +309,7 @@
         },
         {
             "nome": "Revitalizar",
-            "efeito": "Cura X% da vida máxima do aliado [X=(Afinidade + Percepção)/10]",
+            "efeito": "Cura X de hp [X=(Afinidade + Percepção)/2]",
             "custo": 30
         },
     ]
