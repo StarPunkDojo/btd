@@ -62,7 +62,7 @@
     ]
 }
 ```
-### Espada
+### Espadão
 ```json
 {
     "lv-1": [
@@ -189,7 +189,7 @@
     "lv-1": [
         {
             "nome": "Golpe Sobrecarregado",
-            "dano": "Aptidão",
+            "dano": "Afinidade",
             "tipoDeDano": "Elemental",
             "efeito": "Também danifica o Fluxo do alvo",
             "custo": null
