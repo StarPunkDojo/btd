@@ -146,7 +146,7 @@ Quando um **jogador** é infligido por um determinado número de efeitos, o pró
 - O alvo pode ser afligido por mais de um Efeito, desconsiderando este
 ### Efeito: Conceder **Pacto** 
 - Sempre que o alvo é afligido por um efeito, absorva-o
-- Sempre que o fizer, absorva junto 10% do Fluxo total do alvo
+- Sempre que o fizer, absorva junto 10% da Sanidade total do alvo
 
 ## Afiliação em **Sophia**
 ### Passiva: **Checkpoint**
