@@ -160,8 +160,8 @@ Quando um **jogador** é infligido por um determinado número de efeitos, o pró
 ## Afiliação em **Elphis**
 ### Passiva: **Blink**
 - Pode gastar o turno para se reposicionar fisicamente no campo de batalha
-### Efeito: Conceder **Acelerar** 
-- o alvo recebe +20% de evasão
+### Efeito: Conceder **Elevado** 
+- o alvo recebe +20% de Aptidão
 ### Efeito: Tático **Troca**
 - Pode aplicar trocar dois alvos de posição
 
