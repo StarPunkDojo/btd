@@ -135,7 +135,11 @@ Quando um **jogador** é infligido por um determinado número de efeitos, o pró
 ### Passiva: **Certeza das Estações**
 - A cada quarta **estação**, ganhe uma extra para ser feita no turno
 ### Efeito: Tático **Rotacionar** 
-- Aplica uma das quatro **estações** no campo de batalha
+- Aplica uma das quatro **estações** no campo de batalha, podendo aplicar **efeitos** quando combinado com outros Elementos.
+- **Inverno**: Inimigos recebem -10% de Evasão, também pode aplicar **Congelar** em inimigos afetados por **Água** no último turno
+- **Verão**: Inimigos recebem -10% de Aptidão, também pode aplicar **Chamuscar** em inimigos afetados por **Fogo** no último turno
+- **Outono**: Inimigos recebem -10% de Afinidade, também pode aplicar **Ruína** em inimigos afetados por **Sombra** no último turno
+- **Primavera**: Aliados recebem +10% de Precisão, também pode aplicar **Refrescado** em aliados quando há inimigos que foram afetados por **Luz** no último turno
 ### Efeito: Conceder **Refrescado** 
 - Efeitos que Afligirem o alvo duram somente 1 turno 
 
